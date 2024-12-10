@@ -1,0 +1,29 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgba(100, 100, 142, 0.4);
+  color:rgb(206, 206, 206);
+}    
+
+h1, h2 {
+    color: rgb(167, 100, 100);
+    text-align: center;
+}
+h1 {
+  background-color: rgb(255, 251, 24);
+}
+
+h2 {
+    background-color: rgb(167, 100, 100);
+    color: rgb(255, 251, 24);
+}
+
+/* 
+ol, ul, li {
+  background-color: rgba(126, 155, 181, 0.431);
+  color: white;
+} */
+
+ol, ul, li {
+    background-color: rgba(100, 100, 142, 0.4)
+}
+
